@@ -1,1 +1,5 @@
+<<<<<<< .merge_file_VudcZi
  #!/bin/bash  echo "The schoolis open "
+=======
+ #!/bin/bash  echo "The School is open!"
+>>>>>>> .merge_file_9LhsNq
